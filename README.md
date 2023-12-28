@@ -21,7 +21,7 @@ The program operates via a text interface, offering various options like vehicle
 
 ## Installation and Setup
 - Ensure Git is installed.
-- Clone the repository: `git clone https://github.com/VarjuAkos/Prog-1---AutoService`
+- Clone the repository: `git clone https://github.com/VarjuAkos/Prog1-AutoService`
 - Follow the setup instructions provided in the documentation.
 
 ## Contributing
